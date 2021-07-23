@@ -1,5 +1,7 @@
 # Retail-Analysis-R
 
+To analyse and perform exploratory data analysis on the three datasets provided namely - Customer, Transaction and Product Heirarchy, to analyse customer behaviour and sales information, pertaining to transactions made in different product categories. 
+
 ### q1) To merge using base merge and dplyr package.
 ### q2) a) Names of the columns in the dataset and their corresponding data types
    ### b) Top 10 and bottom 10 observations
