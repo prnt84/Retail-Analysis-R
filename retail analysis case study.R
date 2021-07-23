@@ -94,8 +94,6 @@ max_city
 paste("max no. of customers are from city code ",max_city$`final_merge$city_code`,":",max_city$n) #percentage
 paste("Percentage of customers:",round((max_city$n/sum(a$n))*100,2),"%") #percentage
 
-#question 7
-
 #question 8
 dataa <- final_merge %>%
   group_by(Store_type,prod_cat) %>%
