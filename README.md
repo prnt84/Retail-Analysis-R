@@ -1,4 +1,4 @@
-# Retail-Analysis-R
+## Retail-Analysis-R
 
 q1) To merge using base merge and dplyr package.
 q2) a) Names of the columns in the dataset and their corresponding data types
