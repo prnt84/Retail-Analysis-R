@@ -1,6 +1,6 @@
 ## Retail-Analysis-R
 
-q1) To merge using base merge and dplyr package.
+# q1) To merge using base merge and dplyr package.
 q2) a) Names of the columns in the dataset and their corresponding data types
     b) Top 10 and bottom 10 observations
     c) Min, Q1, median, Q3 and max of the continuous variables.
